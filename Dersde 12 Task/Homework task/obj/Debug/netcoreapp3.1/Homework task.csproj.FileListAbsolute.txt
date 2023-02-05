@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\bin\Debug\netcoreapp3.1\Homework task.exe
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\bin\Debug\netcoreapp3.1\Homework task.deps.json
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\bin\Debug\netcoreapp3.1\Homework task.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\bin\Debug\netcoreapp3.1\Homework task.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\bin\Debug\netcoreapp3.1\Homework task.dll
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\bin\Debug\netcoreapp3.1\Homework task.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.dll
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 12 Task\Homework task\obj\Debug\netcoreapp3.1\Homework task.genruntimeconfig.cache
